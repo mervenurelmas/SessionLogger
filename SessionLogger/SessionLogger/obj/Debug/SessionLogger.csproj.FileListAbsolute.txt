@@ -1,0 +1,8 @@
+C:\Users\Merve\source\repos\SessionLogger\SessionLogger\bin\Debug\SessionLogger.exe.config
+C:\Users\Merve\source\repos\SessionLogger\SessionLogger\bin\Debug\SessionLogger.exe
+C:\Users\Merve\source\repos\SessionLogger\SessionLogger\bin\Debug\SessionLogger.pdb
+C:\Users\Merve\source\repos\SessionLogger\SessionLogger\obj\Debug\SessionLogger.csprojAssemblyReference.cache
+C:\Users\Merve\source\repos\SessionLogger\SessionLogger\obj\Debug\SessionLogger.Properties.Resources.resources
+C:\Users\Merve\source\repos\SessionLogger\SessionLogger\obj\Debug\SessionLogger.csproj.GenerateResource.cache
+C:\Users\Merve\source\repos\SessionLogger\SessionLogger\obj\Debug\SessionLogger.exe
+C:\Users\Merve\source\repos\SessionLogger\SessionLogger\obj\Debug\SessionLogger.pdb
